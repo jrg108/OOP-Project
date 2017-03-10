@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour {
 
     void nightTurn()
     {
-        foreach (Player player in palyers)
+        foreach (Player player in players)
         {
             player.nightTurn();
         }
@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour {
 
     void dayTurn()
     {
-        foreach (Player player in palyers)
+        foreach (Player player in players)
         {
             player.dayTurn();
         }
@@ -83,7 +83,7 @@ public class Mafia : Player
 
 public class MafiaTeam : Player
 {
-    public List<Mafia> mafiaPlayers;
+    public List<Player> mafiaPlayers;
 
     public override void nightTurn()
     {
@@ -100,7 +100,7 @@ public class MafiaTeam : Player
     {
         for(int i = 0; i < mafiaPlayers.Count; i++)
         {
-            if (mafiaPlayers[i] == playerName)
+            if (mafiaPlayers[i].name == playerName)
                 mafiaPlayers.RemoveAt(i);
         }
     }
