@@ -1,0 +1,33 @@
+Mono path[0] = 'C:/Users/jerem/Documents/GitHub/OOP-Project/Mafia/Builds/Mafia_Data/Managed'
+Mono path[1] = 'C:/Users/jerem/Documents/GitHub/OOP-Project/Mafia/Builds/Mafia_Data/Mono'
+Mono config path = 'C:/Users/jerem/Documents/GitHub/OOP-Project/Mafia/Builds/Mafia_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/jerem/Documents/GitHub/OOP-Project/Mafia/Builds/Mafia_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55469
+Multi-casting "[IP] 192.168.1.107 [Port] 55469 [Flags] 2 [Guid] 3252162237 [EditorId] 1831682478 [Version] 1048832 [Id] WindowsPlayer(JeremysLaptop) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55469]
+PlayerConnection already initialized - listening to [0.0.0.0:55469]
+Player data archive not found at `C:/Users/jerem/Documents/GitHub/OOP-Project/Mafia/Builds/Mafia_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3038 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jerem\Documents\GitHub\OOP-Project\Mafia\Builds\Mafia_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.924962 ms
